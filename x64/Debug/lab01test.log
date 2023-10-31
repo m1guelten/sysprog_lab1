@@ -1,0 +1,6 @@
+﻿  Database.cpp
+  Hotels.cpp
+  main.cpp
+D:\MyProg\Ci\lab01test\lab01test\main.cpp(105,20): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  lab01test.vcxproj -> D:\MyProg\Ci\lab01test\lab01test\x64\Debug\lab01test.exe
